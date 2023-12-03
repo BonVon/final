@@ -1,0 +1,19 @@
+
+@media print{
+    #wrapper {
+    display: flex;
+    flex-direction: column;
+	width: 100%;
+    margin: auto;
+	box-shadow: 3px 3px 3px 3px #333333;
+    background-color: navy;
+}
+
+    body {
+        margin-top: 0%;
+    }
+
+    table {
+        overflow:auto;
+    }
+}
