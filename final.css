@@ -106,6 +106,17 @@ img{
     margin: auto;
 }
 
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video video {
+    max-width: 100%;
+    height: auto;
+}
+
 footer {
     text-align: center;
     border-top:  1px solid white;
